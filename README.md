@@ -80,6 +80,7 @@ Chilling                        NAN                  █▓░░░░░░░
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />  
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FB542B?style=flat-square&logo=Firebase&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white" />
 </p>
 </div>
 <!-- 
