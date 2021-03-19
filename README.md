@@ -6,10 +6,10 @@
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Avijeet's LinkedIN" width="22px" src="https://www.linkedin.com/in/avijeet-kumar-910aa0189/"/>
 </a>
 <a href="https://discord.gg/XNxNUKZz">
-  <img align="left" alt="Avijeet's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Avijeet's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu) -->
@@ -50,10 +50,6 @@ C++          50 mins         ██░░░░░░░░░░░░░░░
 JSON         44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
 ```
 <!--END_SECTION:waka-->
-
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
