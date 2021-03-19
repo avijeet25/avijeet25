@@ -51,10 +51,10 @@ Chilling                        NAN                  █▓░░░░░░░
 <!--END_SECTION:waka-->
 <div align="left">
   <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-  <br />
+  <!-- <br />
   <small>📈 Languages used in my public repos - big fan of JavaScript 😛</small>
   <br />
-  <br />
+  <br /> -->
 </div>
 <div width="200">
 <h3>Things I code with</h3>
