@@ -3,9 +3,9 @@
 <a href="https://linkedin.com/in/avijeet kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="avijeet kumar" height="30" width="40" /></a>
 <a href="https://fb.com/avijeet kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="avijeet kumar" height="30" width="40" /></a> -->
 </h1>.
-<p align="right">
+<!-- <p align="right">
 
-</p>
+</p> -->
 <h2 align="center">A passionate Software Developer from India</h2>
 
 - 🌱 Learning and Growing with  **#TechTrends**
