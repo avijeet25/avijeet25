@@ -49,16 +49,16 @@ Debugging                       Unidentified         ██░░░░░░░
 Chilling                        NAN                  █▓░░░░░░░░░░░░░░░░░░░░░░░      -- % 
 ```
 <!--END_SECTION:waka-->
-<div align="left">
+<div align="right">
   <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <!-- <br />
   <small>📈 Languages used in my public repos - big fan of JavaScript 😛</small>
   <br />
   <br /> -->
 </div>
-<div width="200" align="right">
+<div width="200" align="left">
 <!-- <h3>Things I code with</h3> -->
-<p width="200" align="right">
+<p width="200" align="left">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 
   <img alt="Java" src="https://img.shields.io/badge/-Java-ea2845?style=flat-square&logo=java&logoColor=white" />
