@@ -23,8 +23,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+- 📫 How to reach me: [@avijeet](https://www.linkedin.com/in/avijeet-kumar-910aa0189/);
+- 📝 [Resume](https://portfolio-4bdad.web.app/)
 
 **Languages and Tools:**  
 
@@ -42,11 +42,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 hrs 53 mins   █████████████░░░░░░░░░░░░   51.82 % 
-TypeScript   2 hrs 2 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Python       59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-C++          50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-JSON         44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Web Development   15 hrs 30 mins   █████████████░░░░░░░░░░░░   51.82 % 
+Exploration   10hrs 20 mins   ██████▒░░░░░░░░░░░░░░░░░░░░   27.89 % 
+Java Application Development       4 hrs59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Debugging          Unidentified         ██░░░░░░░░░░░░░░░░░░░░░░░   -- % 
+Chilling         NAN         █▓░░░░░░░░░░░░░░░░░░░░░░░  -- % 
 ```
 <!--END_SECTION:waka-->
 
