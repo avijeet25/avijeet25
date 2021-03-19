@@ -6,9 +6,9 @@
 <p align="right">
 
 </p>
-<h3 align="center">A passionate React Frontend developer from India</h3>
+<h2 align="center">A passionate Software Developer from India</h2>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 Learning and Growing with  **#TechTrends**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-4bdad.web.app/](https://portfolio-4bdad.web.app/)
 
