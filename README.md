@@ -50,12 +50,13 @@ Chilling                        NAN                  █▓░░░░░░░
 ```
 <!--END_SECTION:waka-->
 <div align="left">
-  <img width="50" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
   <small>📈 Languages used in my public repos - big fan of JavaScript 😛</small>
   <br />
   <br />
 </div>
+<div width="200">
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -79,7 +80,7 @@ Chilling                        NAN                  █▓░░░░░░░
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-
+</div>
 <!-- 
 📈 My GitHub Stats
 
