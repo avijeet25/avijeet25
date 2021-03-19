@@ -58,7 +58,7 @@ Chilling                        NAN                  █▓░░░░░░░
 </div>
 <div width="200" align="right">
 <!-- <h3>Things I code with</h3> -->
-<p>
+<p width="200">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 
   <img alt="Java" src="https://img.shields.io/badge/-Java-ea2845?style=flat-square&logo=java&logoColor=white" />
