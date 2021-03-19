@@ -5,8 +5,8 @@
 <a href="https://twitter.com/abhisheknaiidu">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Avijeet's LinkedIN" width="22px" src="https://www.linkedin.com/in/avijeet-kumar-910aa0189/"/>
+<a href="https://www.linkedin.com/in/avijeet-kumar-910aa0189/">
+  <img align="left" alt="Avijeet's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://discord.gg/XNxNUKZz">
   <img align="left" alt="Avijeet's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
