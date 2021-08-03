@@ -24,7 +24,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@avijeet](https://www.linkedin.com/in/avijeet-kumar-910aa0189/);
-- 📝 [Resume](https://portfolio-4bdad.web.app/)
+
 
 <!-- **Languages and Tools:**  
 
